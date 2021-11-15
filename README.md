@@ -46,7 +46,6 @@ the data contains a 12344 rows and 34 columns, and these columns are:
 - involved_companies > companies that are invloved in the game in anyway
 - url > a link of the game (metacritic website)
 - cover_image > cover image of the game
-- 
 ## Sources:
 - https://www.metacritic.com/
 - https://igdb.com/
