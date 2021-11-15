@@ -2,8 +2,8 @@
 ## Introduction
 Video games have widely spread over the past 20 years, and developers started to put out games in higher quantity and quality, and with the huge number of games, one might face a problem of finding the game that is sutiable to him/her. so what if there a way to get a game that he/she might like based on previously played games.
 ## Project
-Video Game Recommendation System is a content text based recommender, it recommends a game by finding out simillarities in games based on many variables, like description, genres, platforms, themes, etc...
-It starts by user giving it the game he\she likes, returning 5 simillar games
+Video Game Recommendation System is a content text based recommender, it recommends a game by finding out similarities  in games based on many variables, like description, genres, platforms, themes, etc...
+It starts by user giving it the game he\she likes, returning 5 similar games
 ## Technologies
 - Python 3.7
 ## Deliverables
