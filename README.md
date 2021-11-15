@@ -50,5 +50,3 @@ the data contains a 12344 rows and 34 columns, and these columns are:
 - https://www.metacritic.com/
 - https://igdb.com/
 - https://github.com/microsoft/recommenders
-
-# video_game_recommender
